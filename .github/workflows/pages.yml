@@ -21,7 +21,7 @@ jobs:
       - name: Prepare website
         run: |
           mkdir -p _site
-          cp index.html style.css script.js _site/
+          cp index.html style.css script.js donate.html donate.css donate.js _site/
           cp -R images _site/images
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5

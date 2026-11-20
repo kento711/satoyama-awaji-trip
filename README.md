@@ -22,3 +22,7 @@ http://127.0.0.1:4173/ を開きます。ビルド不要のHTML / CSS / JavaScri
 - `images/`: 画像資料・ロゴ
 
 元HP: https://kento711.github.io/satoyama-miracle-lp/
+
+## 応援・寄付ページ
+
+`donate.html` は学校全体への応援・寄付の案内です。既存のNotion公開ページの内容・振込先を引き継いでいます。専用スタイルは `donate.css`、振込先コピーボタンは `donate.js`。修学旅行ページから相互リンクしています。
